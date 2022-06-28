@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @denisomarov (Denis Omarov)
+- 👀 I’m interested in coding, web-coding, mashin-learning
+- 🌱 I’m currently learning Flask+Phyton
+- 💞️ I’m looking to collaborate on mashin-lerning
+- 📫 How to reach me - omarov_denis@mail.ru
